@@ -1,4 +1,8 @@
 # Student-Data-Analysis
+
+![9faff752-f5d1-4cc2-8320-b26721080127](https://github.com/user-attachments/assets/d311b40b-6471-4288-adb9-daacc42ec54c)
+
+
 Student Data Analysis Using Excel &amp; Power BI – Hash Plus Bootcamp
 
 ## Analyzing Student Experiences in Online and Face-to-Face Learning
